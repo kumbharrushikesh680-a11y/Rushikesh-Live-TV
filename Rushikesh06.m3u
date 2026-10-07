@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" group-title="India",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN-EN: All Project Power (2020)" tvg-logo="https://static.wikia.nocookie.net/project-power-2020/images/d/dd/MV5BYzBhOWU4ODAtZDYzYi00NDU1LWIzZWUtNDZmMDgxODljZTVmXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_UX182_CR0%2C0%2C182%2C268_AL_.jpg/revision/latest/smart/width/400/height/225?cb=20200831002959" group-title="IN - Hindi Dubbed 2020-2025",IN-EN: All Project Power (2020)
+http://4k.nettviptv.com:8880/movie/31619742/31643496/328354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="IN-EN: All Extraction (2020)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Extraction_Movie_Poster.jpg" group-title="IN - Hindi Dubbed 2020-2025",IN-EN: All Extraction (2020)
+http://4k.nettviptv.com:8880/movie/31619742/31643496/328337.mkv
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" group-title="India",4TV News (576p)
 http://51.75.127.199:3141/4tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="India",6 TV Telugu (576p)
