@@ -9,6 +9,11 @@ https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
 https://cloudplay-sonyliv.pages.dev/sethd.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD",Sony Sports Ten 3 Hindi HD (1080p)
 https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IN: Tiger Zinda Hai (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CVM7LW61DcYbFf4OmEV0LMUhBr.jpg" group-title="IN - Hindi Thriller & Horror",IN: Tiger Zinda Hai (2017)
+http://4k.nettviptv.com:8880/movie/31619742/31643496/389786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IN-EN: Salaar: Part 1 - Ceasefire (2023) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNHdClul57prczb5O0krrzyonnn.jpg" group-title="IN - 4K Movies",IN-EN: Salaar: Part 1 - Ceasefire (2023) 4K
+http://4k.nettviptv.com:8880/movie/31619742/31643496/877348.mkv
+
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIMvsAUS_Web-match-card.png" group-title="Fancode-Cricket", Australia tour of Zimbabwe, 2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4249098_english_hls_23b38859e816047_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789571412~_GO=Generated~acl=/mumbai/4249098_english_hls_23b38859e816047_1ta-di_h264/*~Signature=AVl424M92c6R-nlcCWf3I4o2Qua4hOPGSy-evWpq4VFON_HnDP2chvAEAn28FhBb1VW6Y4vZQDKXLXy8L3Mlus_k_QoH
