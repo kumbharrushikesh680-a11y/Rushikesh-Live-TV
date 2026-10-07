@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" group-title="India",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMania_Gujarati_1_FHD (IN)" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4dad2a389a132ef32e205e27e945bff8.png" group-title="IN - Gujarati - Live",CineMania_Gujarati_1_FHD (IN)
+http://4k.nettviptv.com:8880/live/31619742/31643496/828482.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania_Gujarati_2_FHD (IN)" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4dad2a389a132ef32e205e27e945bff8.png" group-title="IN - Gujarati - Live",CineMania_Gujarati_2_FHD (IN)
+http://4k.nettviptv.com:8880/live/31619742/31643496/828483.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania_Gujarati_3_FHD (IN)" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4dad2a389a132ef32e205e27e945bff8.png" group-title="IN - Gujarati - Live",CineMania_Gujarati_3_FHD (IN)
+http://4k.nettviptv.com:8880/live/31619742/31643496/828484.ts
+#EXTINF:-1 tvg-id="" tvg-name="CineMania_Gujarati_4_FHD (IN)" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/4dad2a389a132ef32e205e27e945bff8.png" group-title="IN - Gujarati - Live",CineMania_Gujarati_4_FHD (IN)
+http://4k.nettviptv.com:8880/live/31619742/31643496/828485.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colors Gujarati Cinema HD (IN)" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/b37ff9cb77d8da685d16f225cf2f8a89.png" group-title="IN - Gujarati - Live",Colors Gujarati Cinema HD (IN)
+http://4k.nettviptv.com:8880/live/31619742/31643496/326113.ts
+#EXTINF:-1 tvg-id="" tvg-name="Colors Gujarati FHD (IN)" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/3c5dc100e88c7763960a1f017c20565a.png" group-title="IN - Gujarati - Live",Colors Gujarati FHD (IN)
+http://4k.nettviptv.com:8880/live/31619742/31643496/325120.ts
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" group-title="India",4TV News (576p)
 http://51.75.127.199:3141/4tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="India",6 TV Telugu (576p)
